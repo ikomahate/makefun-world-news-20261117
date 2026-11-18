@@ -1,4 +1,8 @@
-# The World in One Day — 17 November 2026
+﻿[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/ikomahate/makefun-world-news-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/ikomahate/makefun-world-news-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
+# The World in One Day â€” 17 November 2026
 
 [![Make.fun competition](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/c/news-image-20261117)
 [![Rank](https://make.fun/badge/news-image-20261117/ikomahate/world-news-20261117/rank.svg)](https://make.fun/c/news-image-20261117)
@@ -82,3 +86,4 @@ MIT, including the original artwork. Source material is cited for facts only;
 third-party articles and photographs are not redistributed. Intended repository:
 `ikomahate/world-news-20261117`. Publication and submission require the user's
 explicit approval. Neither has been performed.
+
